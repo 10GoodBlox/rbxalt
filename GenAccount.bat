@@ -1,4 +1,5 @@
 @echo off
+npm install
 title Roblox Account Generator
 cd main
 node index.js
