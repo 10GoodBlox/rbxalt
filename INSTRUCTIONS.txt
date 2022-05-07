@@ -1,0 +1,11 @@
+DO NOT DELETE MAIN!
+YOU NEED FIREFOX FOR THIS!
+
+
+Go to this URL
+VVVVVVVVVVVVVVV
+https://nodejs.org/en/
+^^^^^^^^^^^^^^
+and download any version you want
+
+After you have installed that version, Try starting GenAccount.bat
